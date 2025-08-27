@@ -27,7 +27,7 @@ Deployment: Vercel (for Next.js hosting, if applicable)
 Installation
 To run Gimbac locally, follow these steps:
 
-Clone the repository:git clone https://github.com/noureddinle/gimbac.git
+Clone the repository:git clone https://github.com/noureddinle/gimbac-project.git
 
 
 Navigate to the project directory:cd gimbac
